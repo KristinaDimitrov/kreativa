@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+  <title>Kreativa Home Page</title>
+  <link>https://kristinadimitrov.github.io/kreativa/</link>
+  <description>Kreativa is brand that is specialized in precision-fit custom design. Our creativity is limitless. Our international team of designers and architects together with local craftsmen and subcontractors are managing different aspect from scratc up to fully equipped space.</description>
+  <item>
+    <title>Kreativa Services Page</title>
+    <link>https://kristinadimitrov.github.io/kreativa/services.html</link>
+    <description>Interior design, Furniture, Construction, Management, Decorating, Acquisition.</description>
+  </item>
+  <item>
+    <title>Author</title>
+    <link>https://kristinadimitrov.github.io/kreativa/author.html</link>
+    <description>Kristina Dimitrov, Index: 142/23</description>
+  </item>
+</channel>
+</rss>
