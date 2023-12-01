@@ -590,6 +590,7 @@ footer .logo img {
     height: auto;
 }
 
+.rss-ico,
 .sitemap-ico {
     position: absolute;
     top: auto;
@@ -598,9 +599,22 @@ footer .logo img {
     right: 30px;
 }
 
+.rss-ico {
+    bottom: 80px;
+}
+
+.rss-ico svg {
+    fill: transparent;
+    stroke: #fff;
+} 
 .sitemap-ico svg {
     fill: #fff;
     transition: transform .3s ease-in-out;
+}
+
+.rss-ico:hover svg {
+    fill: transparent;
+    stroke: #a88744;
 }
 
 .sitemap-ico:hover svg {
